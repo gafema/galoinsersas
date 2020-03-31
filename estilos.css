@@ -20,6 +20,9 @@ p {
 	text-align: justify;
 }
 
+.todo {
+	background-color: #f5f5f5;
+}
 .todo li {
 	color: #524c56;
 	font-size: 110%;
@@ -175,6 +178,15 @@ a:hover {
 	width: 29%;
 	float: left;
 	margin: 2% 2%;
+}
+
+.one-third-padding p {
+	text-align: left;
+}
+
+.one-third-padding img {
+	height: 220px;
+	width: 420px;
 }
 
 .clearfix-padding {
